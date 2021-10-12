@@ -1,0 +1,38 @@
+* {
+    background-color: #EF8275
+}
+
+#diceBox {
+    display: flex;
+    background-color: #D6FFF6;
+    height: 100px;
+    width: 100px;
+    border: 2px #8FC0A9;
+    margin: 3em;
+    justify-content: center;
+    align-items: center;
+    float: left;
+}
+
+#diceBox {
+
+    color: black;
+    font-weight: bolder;
+    font-size: 24px;
+    text-align: center;
+}
+
+button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 3em;
+    margin-top: 3em;
+    height: 100px;
+    width: 200px;
+    border-radius: 2em;
+    color: black;
+    background-color: #FBDEDA;
+    font-weight: bolder;
+    font-size: 14px;
+}
